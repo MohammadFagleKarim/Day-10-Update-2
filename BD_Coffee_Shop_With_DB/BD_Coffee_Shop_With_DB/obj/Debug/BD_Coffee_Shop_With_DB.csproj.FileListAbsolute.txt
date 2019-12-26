@@ -1,0 +1,24 @@
+G:\Day-10 Update\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\bin\Debug\BD_Coffee_Shop_With_DB.exe.config
+G:\Day-10 Update\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\bin\Debug\BD_Coffee_Shop_With_DB.exe
+G:\Day-10 Update\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\bin\Debug\BD_Coffee_Shop_With_DB.pdb
+G:\Day-10 Update\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\obj\Debug\BD_Coffee_Shop_With_DB.csprojAssemblyReference.cache
+G:\Day-10 Update\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\obj\Debug\BD_Coffee_Shop_With_DB.CustomerUi.resources
+G:\Day-10 Update\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\obj\Debug\BD_Coffee_Shop_With_DB.ItemUi.resources
+G:\Day-10 Update\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\obj\Debug\BD_Coffee_Shop_With_DB.OrderUi.resources
+G:\Day-10 Update\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\obj\Debug\BD_Coffee_Shop_With_DB.Properties.Resources.resources
+G:\Day-10 Update\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\obj\Debug\BD_Coffee_Shop_With_DB.csproj.GenerateResource.cache
+G:\Day-10 Update\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\obj\Debug\BD_Coffee_Shop_With_DB.csproj.CoreCompileInputs.cache
+G:\Day-10 Update\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\obj\Debug\BD_Coffee_Shop_With_DB.exe
+G:\Day-10 Update\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\obj\Debug\BD_Coffee_Shop_With_DB.pdb
+G:\10\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\bin\Debug\BD_Coffee_Shop_With_DB.exe.config
+G:\10\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\bin\Debug\BD_Coffee_Shop_With_DB.exe
+G:\10\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\bin\Debug\BD_Coffee_Shop_With_DB.pdb
+G:\10\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\obj\Debug\BD_Coffee_Shop_With_DB.csprojAssemblyReference.cache
+G:\10\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\obj\Debug\BD_Coffee_Shop_With_DB.CustomerUi.resources
+G:\10\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\obj\Debug\BD_Coffee_Shop_With_DB.ItemUi.resources
+G:\10\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\obj\Debug\BD_Coffee_Shop_With_DB.OrderUi.resources
+G:\10\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\obj\Debug\BD_Coffee_Shop_With_DB.Properties.Resources.resources
+G:\10\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\obj\Debug\BD_Coffee_Shop_With_DB.csproj.GenerateResource.cache
+G:\10\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\obj\Debug\BD_Coffee_Shop_With_DB.csproj.CoreCompileInputs.cache
+G:\10\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\obj\Debug\BD_Coffee_Shop_With_DB.exe
+G:\10\BD_Coffee_Shop_With_DB\BD_Coffee_Shop_With_DB\obj\Debug\BD_Coffee_Shop_With_DB.pdb
